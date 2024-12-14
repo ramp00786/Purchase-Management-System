@@ -118,4 +118,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 For inquiries or support, please contact:
 - Name: [Tulsiram Kushwah]
 - Email: [ramp00786@gmail.com](mailto:ramp00786@gmail.com)
-- GitHub: [https://github.com/your-repo](https://github.com/ramp00786/Purchase-Management-System.git)
+- GitHub: [https://github.com/ramp00786/Purchase-Management-System.git](https://github.com/ramp00786/Purchase-Management-System.git)
